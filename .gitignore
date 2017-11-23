@@ -1,3 +1,4 @@
 .idea
 node_modules
 *.log
+/SoundMachine-win32-x64
